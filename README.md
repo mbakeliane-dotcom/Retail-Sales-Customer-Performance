@@ -37,9 +37,18 @@ Exploration of customer purchasing behavior.
 ## Key Insights
 *To be completed with findings validated from the dashboard.*
 
-## Dashboard Screenshots
-*Screenshots will be added here.*
 
+### Dashboard Screenshots
+
+#### 1. Executive Overview
+![Executive Overview](executive-overview.png)
+
+#### 2. Product Performance
+![Product Performance](product-performance.png)
+
+#### 3. Customer Analysis
+![Customer Analysis](customer-analysis.png)
+  
 ## Project Files
 *Power BI report and supporting documentation will be added here.*
 
