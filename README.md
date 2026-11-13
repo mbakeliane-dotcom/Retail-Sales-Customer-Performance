@@ -37,6 +37,8 @@ Exploration of customer purchasing behavior.
 ## Key Insights
 *To be completed with findings validated from the dashboard.*
 
+*Data Quality Note: December 2011 was excluded from the monthly trend analysis because the dataset only contains transactions for part of the month, ensuring consistent month-over-month comparisons.*
+
 ## Dashboard Screenshots
 *Screenshots will be added here.*
 
