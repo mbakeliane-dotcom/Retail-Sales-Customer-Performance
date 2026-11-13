@@ -35,10 +35,29 @@ Analysis of product sales and performance.
 Exploration of customer purchasing behavior.
 
 ## Key Insights
-*To be completed with findings validated from the dashboard.*
 
+### 1. Sales Performance
+- Revenue fluctuated throughout 2011, followed by a strong upward trend from September to November.
+- November 2011 recorded the highest monthly revenue in the displayed period.
+- Revenue and order volumes generally increased toward the end of the year, suggesting stronger commercial activity.
 
-### Dashboard Screenshots
+### 2. Product Performance
+- A relatively small group of products generated a significant share of sales revenue.
+- High sales volumes did not always correspond to the highest revenue, highlighting differences in product value.
+- Several products generated negative net revenue, suggesting the need to investigate returns, cancellations, or other adjustments.
+
+### 3. Customer Analysis
+- Revenue was concentrated among a limited number of high-value customers.
+- Customers with similar order frequencies sometimes generated significantly different revenue levels.
+- Germany and France represented substantial shares of the customer base outside the United Kingdom.
+
+### 4. Business Recommendations
+- Investigate the drivers of the year-end increase in sales.
+- Prioritize high-performing products while monitoring products with negative net revenue.
+- Develop targeted retention strategies for high-value customers.
+- Explore opportunities in international markets with established customer demand.
+
+## Dashboard Screenshots
 
 #### 1. Executive Overview
 ![Executive Overview](executive-overview.png)
