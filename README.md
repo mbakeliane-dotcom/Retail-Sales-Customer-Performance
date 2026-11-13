@@ -10,7 +10,7 @@ This project analyzes online retail transactions to explore sales trends, produc
 
 ## Dataset
 **Source:** UCI Machine Learning Repository — Online Retail Dataset  
-**Period:** December 2010 – December 2011
+**Period:** December 2010 – December 2011 (*Data Quality Note: December 2011 was excluded from the monthly trend analysis because the dataset only contains transactions for part of the month, ensuring consistent month-over-month comparisons.*)
 
 ## Tools & Technologies
 - Power BI — Interactive dashboards and reporting
@@ -37,10 +37,10 @@ Exploration of customer purchasing behavior.
 ## Key Insights
 *To be completed with findings validated from the dashboard.*
 
-*Data Quality Note: December 2011 was excluded from the monthly trend analysis because the dataset only contains transactions for part of the month, ensuring consistent month-over-month comparisons.*
-
 ## Dashboard Screenshots
 *Screenshots will be added here.*
 
 ## Project Files
 *Power BI report and supporting documentation will be added here.*
+
+
