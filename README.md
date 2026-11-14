@@ -69,6 +69,6 @@ Exploration of customer purchasing behavior.
 ![Customer Analysis](customer-analysis.png)
   
 ## Project Files
-*Power BI report and supporting documentation will be added here.*
+[Download the Power BI Dashboard](Retail%20Sales%20%26%20Customer%20Performance%20Dashboard.pbix)
 
 
